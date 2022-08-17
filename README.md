@@ -14,4 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a pre-final year student at Indian Institute of Technology, Guwahati. I like exploring tech and building new stuffs. I likes to explore new algorithms and follows competitive programming and development coding. I work mainly on Django framework but started learning Android Programming recently. I like to compete in programming contests and follows it as my passion. You can reach me through LinkedIn.
+I am a pre-final year student at Hi-Tech Institute of Engineering and Technology , Ghaziabad. I like exploring tech and building new stuffs. You can reach me through LinkedIn.
+
+Talking about Personal Stuffs:
+
+🌱 I’m currently a learner and Open to work.
+💬 Ask me about anything, I am happy to help.
+📫 How to reach me: @https://linkedin.com/in/ikunalbhardwaj
+
+Languages and Tools:
+
+ * Python and Library
+ * C++
+ * MySql
+ * Mongo DB
+ * Excel, VBA
+ * Power BI
+ 
+ 
