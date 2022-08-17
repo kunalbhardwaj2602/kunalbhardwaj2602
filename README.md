@@ -24,7 +24,7 @@ Talking about Personal Stuffs:
 
 Languages and Tools:
 
- * Python and Library
+ * Python and Libraries
  * C++
  * MySql
  * Mongo DB
