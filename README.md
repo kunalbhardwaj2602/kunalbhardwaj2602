@@ -27,7 +27,6 @@ Languages and Tools:
  * Python and Libraries
  * C++
  * MySql
- * Mongo DB
  * Excel, VBA
  * Power BI
  
