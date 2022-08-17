@@ -18,9 +18,9 @@ I am a pre-final year student at Hi-Tech Institute of Engineering and Technology
 
 Talking about Personal Stuffs:
 
-🌱 I’m currently a learner and Open to work.
-💬 Ask me about anything, I am happy to help.
-📫 How to reach me: @https://linkedin.com/in/ikunalbhardwaj
+* 🌱 I’m currently a learner and Open to work.
+* 💬 Ask me about anything, I am happy to help.
+* 📫 How to reach me: @https://linkedin.com/in/ikunalbhardwaj
 
 Languages and Tools:
 
