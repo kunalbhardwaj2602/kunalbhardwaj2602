@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a pre-final year student at Hi-Tech Institute of Engineering and Technology , Ghaziabad. I like exploring tech and building new stuffs. You can reach me through LinkedIn.
+I am a final year student at Hi-Tech Institute of Engineering and Technology , Ghaziabad. I like exploring tech and building new stuffs. You can reach me through LinkedIn.
 
 Talking about Personal Stuffs:
 
