@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Dyanmic graduate. I like exploring tech and building new stuffs. You can reach me through LinkedIn.
+I am a Data proficient with 2 years of experience. I like exploring tech and building new stuffs. You can reach me through LinkedIn.
 
 Talking about Personal Stuffs:
 
@@ -25,9 +25,11 @@ Talking about Personal Stuffs:
 Languages and Tools:
 
  * Python and Libraries
- * C++
- * MySql
- * Excel, VBA
+ * Pyspark and Databricks
+ * SQL
  * Power BI
+ * Cloud (Azure, GCP)
+ * Excel, VBA
+   
  
  
